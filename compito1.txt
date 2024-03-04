@@ -1,0 +1,4 @@
+ spiegazione delle scelte:
+
+- DMZ: Separare i server pubblici, come quelli web e di posta elettronica, dalla rete interna è una pratica consigliata per limitare il rischio di un attacco esterno. Questo approccio contribuisce a mantenere la rete interna più sicura, isolando i servizi pubblici.
+- Firewall perimetrale: È essenziale disporre di un firewall posizionato tra le diverse zone della rete per monitorare e controllare il traffico in entrata e in uscita. Questo dispositivo permette di implementare politiche di sicurezza efficaci, agendo come una barriera difensiva contro gli attacchi esterni e limitando l'accesso non autorizzato alle risorse interne.
